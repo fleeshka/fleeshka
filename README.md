@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Ulyana 
+
+I'm a 3rd-year CS student at Innopolis University.
+
+I’ve worked in robotics, played with ML, and I love creating tools that make life easier.
+
 
 <!--
 **fleeshka/fleeshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
